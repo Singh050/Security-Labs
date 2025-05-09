@@ -66,16 +66,6 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 
 ---
 
-### 🧩 **CTF Challenge (End-to-End Penetration Test)**
-- Identified a vulnerable vsftpd 2.3.4 service using Nmap.
-- Exploited it using Metasploit to gain root access.
-- Extracted credentials from a user email file.
-- Used the credentials to log into a web server and download a top-secret image.
-
-**Tools:** `nmap`, `nikto`, `metasploit`, `find`, `cat`, `wireshark`, custom bash scripts
-
----
-
 ## 🎯 Skills Demonstrated
 - Network and service enumeration
 - Vulnerability scanning and assessment
@@ -106,7 +96,6 @@ labs/
 ├── Lab4_Phishing/
 ├── Lab5_WiFi_Cracking/
 ├── Lab6_Web_XSS/
-└── CTF_EndToEnd/
 ```
 
 Each directory contains:
