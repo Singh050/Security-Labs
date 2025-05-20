@@ -1,6 +1,6 @@
 # 🔐 Cybersecurity Labs Portfolio (Click the button to see the pdf)
 
-This repository showcases a comprehensive collection of cybersecurity labs I have completed. These labs simulate real-world offensive security tasks including reconnaissance, exploitation, vulnerability analysis, social engineering, wireless network cracking, and web application attacks.
+This repository showcases a comprehensive collection of cybersecurity labs I have completed. These labs simulate real-world offensive security tasks, including reconnaissance, exploitation, vulnerability analysis, social engineering, wireless network cracking, and web application attacks.
 
 ---
 
