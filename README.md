@@ -97,8 +97,8 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 **Tools:** Browser DevTools, `base64`, JavaScript, HTML injection techniques
 
 <p>
-  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/206.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Lab%207%3A%20Placeholder%20if%20needed-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 7">
+  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/205.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Lab%206%3A%20Web%20Exploitation%20--%20Stored%20XSS%20Attacks-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 6">
   </a>
 </p>
 
