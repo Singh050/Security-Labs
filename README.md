@@ -17,6 +17,13 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 
 **Tools:** `ip`, `uptime`, `df`, `uname`, `nslookup`, `cryptsetup`, `nmap`, `wireshark`, `bettercap`, `apktool`
 
+<p>
+  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/Lab%201.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Lab%201%3A%20Getting%20Acquainted%20with%20Kali%20Linux-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 1">
+  </a>
+</p>
+
+
 ---
 
 ### 🌐 **Lab 2: Network Discovery & Password Cracking**
@@ -26,6 +33,13 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 - Performed passive internal reconnaissance after login.
 
 **Tools:** `wget`, `grep`, `awk`, `tcpdump`, `wireshark`, `hydra`, `p0f`, `ifconfig`, `arp-scan`
+
+<p>
+  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/201.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Lab%202%3A%20Network%20Discovery%20%26%20Password%20Cracking-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 2">
+  </a>
+</p>
+
 
 ---
 
@@ -37,6 +51,12 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 
 **Tools:** `nmap`, `masscan`, `nikto`, `openvas`, `metasploit`, `cve.org`
 
+<p>
+  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/202.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Lab%203%3A%20Service%20Discovery%20%26%20Vulnerability%20Assessment-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 3">
+  </a>
+</p
+
 ---
 
 ### 🎣 **Lab 4: Social Engineering (Phishing Simulation)**
@@ -45,6 +65,12 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 - Cloned a legitimate login page and captured credentials via a fake page.
 
 **Tools:** `thunderbird`, `base64`, `setoolkit`
+
+<p>
+  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/203.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Lab%204%3A%20Social%20Engineering%20%28Phishing%20Simulation%29-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 4">
+  </a>
+</p>
 
 ---
 
@@ -55,6 +81,12 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 
 **Tools:** `wireshark`, `aircrack-ng`, `crunch`, `eapol` filters
 
+<p>
+  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/204.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Lab%205%3A%20Wi--Fi%20Security%20%26%20WPA%20Cracking-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 5">
+  </a>
+</p>
+
 ---
 
 ### 💻 **Lab 6: Web Exploitation – Stored XSS Attacks**
@@ -63,6 +95,12 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 - Delivered encoded payloads using base64 iframes for stealthy script execution.
 
 **Tools:** Browser DevTools, `base64`, JavaScript, HTML injection techniques
+
+<p>
+  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/206.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Lab%207%3A%20Placeholder%20if%20needed-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 7">
+  </a>
+</p>
 
 ---
 
