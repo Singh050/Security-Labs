@@ -35,7 +35,7 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 **Tools:** `wget`, `grep`, `awk`, `tcpdump`, `wireshark`, `hydra`, `p0f`, `ifconfig`, `arp-scan`
 
 <p>
-  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/201.pdf" target="_blank">
+  <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Singh050/Security-Labs/main/Lab%202.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Lab%202%3A%20Network%20Discovery%20%26%20Password%20Cracking-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 2">
   </a>
 </p>
@@ -52,7 +52,7 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 **Tools:** `nmap`, `masscan`, `nikto`, `openvas`, `metasploit`, `cve.org`
 
 <p>
-  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/202.pdf" target="_blank">
+  <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Singh050/Security-Labs/main/Lab%203.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Lab%203%3A%20Service%20Discovery%20%26%20Vulnerability%20Assessment-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 3">
   </a>
 </p
@@ -67,7 +67,7 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 **Tools:** `thunderbird`, `base64`, `setoolkit`
 
 <p>
-  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/203.pdf" target="_blank">
+  <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Singh050/Security-Labs/main/Lab%204.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Lab%204%3A%20Social%20Engineering%20%28Phishing%20Simulation%29-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 4">
   </a>
 </p>
@@ -82,7 +82,7 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 **Tools:** `wireshark`, `aircrack-ng`, `crunch`, `eapol` filters
 
 <p>
-  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/204.pdf" target="_blank">
+  <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Singh050/Security-Labs/main/Lab%205.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Lab%205%3A%20Wi--Fi%20Security%20%26%20WPA%20Cracking-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 5">
   </a>
 </p>
@@ -97,7 +97,7 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 **Tools:** Browser DevTools, `base64`, JavaScript, HTML injection techniques
 
 <p>
-  <a href="https://raw.githubusercontent.com/Singh050/Security-Labs/main/205.pdf" target="_blank">
+  <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Singh050/Security-Labs/main/Lab%206.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Lab%206%3A%20Web%20Exploitation%20--%20Stored%20XSS%20Attacks-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 6">
   </a>
 </p>
