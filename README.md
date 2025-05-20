@@ -18,7 +18,7 @@ This repository showcases a comprehensive collection of cybersecurity labs I hav
 **Tools:** `ip`, `uptime`, `df`, `uname`, `nslookup`, `cryptsetup`, `nmap`, `wireshark`, `bettercap`, `apktool`
 
 <p>
-  <a href="https://github.com/Singh050/Security-Labs/blob/main/Lab%201.pdf" target="_blank">
+  <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Singh050/Security-Labs/main/Lab%201.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Lab%201%3A%20Getting%20Acquainted%20with%20Kali%20Linux-View%20PDF-blue?style=for-the-badge&logo=readthedocs" alt="Lab 1">
   </a>
 </p>
